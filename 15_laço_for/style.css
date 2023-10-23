@@ -1,0 +1,46 @@
+
+
+body{
+    background:url(imagens/montanha.jpg)no-repeat right top fixed;
+}
+
+
+.titulo{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.main{
+    text-align: center;
+    font-size:30px ;
+}
+
+.caixa{
+    text-decoration: none;
+    margin: 10px;
+    
+    
+}
+
+input{
+    border-radius: 10px;
+    outline: none;
+    
+}
+
+button{
+   width: 150px;
+   height: 55px;
+   font-family: Arial, Helvetica, sans-serif;
+   border: none;
+   
+
+    
+}
+
+.tituloTabuada{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
